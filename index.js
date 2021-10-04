@@ -50,9 +50,12 @@ inquirer
       type: "input",
       name: "username",
       message: "What is your github user name?"
+    },
+    {
+      type: "input",
+      name: "repo",
+      message: "What is your repo link?"
     }
-
-
   ]
   )
 
