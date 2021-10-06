@@ -1,8 +1,10 @@
-# test
+## Tital
+  
   README Generator
+  
 
 ## Description 
-test
+Project infoamation
 
 ## Table of Contents 
    -[Description](#Description)
@@ -16,34 +18,28 @@ test
   - [Github Info](#Github)
   - [Badges](#Badges)
 
-## Installation
+## Instructions
 
-undefined
+install nmp and then run node 
 
-## Usage 
-
-undefined
-
-// let license = "No license provided"
+MIT
+let license = "No license provided"
 
 if(data.license == "MIT"){
   license = "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"
 } 
 
-## License
+## Usage 
 
-MIT
+yes
 
+## Contribution
 
-## Contributors
-
-  undefined
+  no 
 
   ## Test
 
-  undefined
+  yes
 
 ## Questions
-  If you have any questions, contact ppatel03 on GitHub.
-
-
+  If you have any questions, contact ppatel on GitHub.

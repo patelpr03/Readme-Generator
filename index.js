@@ -22,12 +22,12 @@ inquirer
     // },
     {
       type: "input",
-      name: "instructions",
-      message: "Please provide the installation instructions:"
+      name: "Instructions",
+      message: "Please provide the installation Instructions:"
     },
     {
       type: "input",
-      name: "projectUsage",
+      name: "Usage",
       message: "Please provide the project usage:"
     },
     {
@@ -38,12 +38,12 @@ inquirer
     },
     {
       type: "input",
-      name: "contribution",
+      name: "Contribution",
       message: "Please provide the project contributing parties:"
     },
     {
       type: "input",
-      name: "projectTests",
+      name: "ProjectTests",
       message: "Please provide project tests:"
     },
     {
