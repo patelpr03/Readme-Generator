@@ -1,14 +1,23 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+function renderLicenseBadge(license) {
+  let licenseChoice = "No license provided"
+  if (license == "MIT") {
+    licenseChoice = "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"
+  }
+  else if (license == "ISC") {
+    licenseChoice = "[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)"
+  }
+  return licenseChoice
+}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) { }
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection(license) {}
+function renderLicenseSection(license) { }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
@@ -22,7 +31,7 @@ function generateMarkdown(data) {
 ${data.description}
 
 ## Table of Contents 
-   -[Description](#Description)
+  - [Description](#Description)
   - [Installation](#Installation)
   - [Usage](#Usage)
   - [License](#Licence)
@@ -37,12 +46,9 @@ ${data.description}
 
 ${data.Instructions}
 
-${data.license}
-let license = "No license provided"
+## License
 
-if(data.license == "MIT"){
-  license = "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"
-} 
+${renderLicenseBadge(data.license) }
 
 ## Usage 
 
@@ -57,7 +63,9 @@ ${data.Usage}
   ${data.ProjectTests}
 
 ## Questions
-  If you have any questions, contact ${data.username} on GitHub.
+Have questions about this project?  
+GitHub: https://github.com/${data.github}  
+Email: ${data.email}
 `;
 }
 

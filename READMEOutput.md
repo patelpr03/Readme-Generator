@@ -1,10 +1,10 @@
 ## Tital
   
-  test
+  README Generator
   
 
 ## Description 
-test
+Information about the project
 
 ## Table of Contents 
    -[Description](#Description)
@@ -20,23 +20,25 @@ test
 
 ## Instructions
 
-test
+install npm i command line and run node
 
 ## License
-ISC
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Usage 
 
-test
+Provide instructions
 
 ## Contribution
 
-  test
+  NA
 
   ## Test
 
-  test
+  Yes
 
 ## Questions
-  If you have any questions, contact testtes on GitHub.
+Have questions about this project?  
+GitHub: https://github.com/undefined  
+Email: undefined

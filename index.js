@@ -34,7 +34,8 @@ inquirer
       type: "list",
       name: "license",
       message: "Please provide the project license:",
-      choices: ["MIT", "Eclipse"]
+      choices: ["MIT", "ISC"]
+     
     },
     {
       type: "input",
@@ -69,7 +70,7 @@ inquirer
     //     .split(' ')
     //     .join('') + '.md';
 
-    fs.writeFile('README.md', generateMarkdown(data), function (err) {
+    fs.writeFile('READMEOutput.md', generateMarkdown(data), function (err) {
       if (err) {
         return console.log(err);
       }
