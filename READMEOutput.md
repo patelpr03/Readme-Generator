@@ -1,10 +1,10 @@
 ## Tital
   
-  README Generator
+  README generator
   
 
 ## Description 
-Imfomation about Project
+Project infoamtion
 
 ## Table of Contents 
   - [Description](#Description)
@@ -20,19 +20,19 @@ Imfomation about Project
 
 ## Instructions
 
-install first npm in and then run node 
+install npm then node 
 
-## License
+## Licence
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Usage 
 
-for readme 
+yes
 
 ## Contribution
 
-  non
+  priti patle
 
   ## Test
 

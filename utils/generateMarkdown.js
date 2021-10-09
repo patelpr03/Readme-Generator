@@ -46,7 +46,7 @@ ${data.Description}
 
 ${data.Instructions}
 
-## License
+## Licence
 
 ${renderLicenseBadge(data.Licence) }
 
