@@ -2,8 +2,8 @@
 README Generator
 
 ## Description 
-When creating an open source project on GitHub, it is important to have a quality README with information about the project.
-I created this command-line application with the purpose of dynamially generating a good readme.md file.
+When creating an open-source project on GitHub, it is important to have a quality README with information about the project.
+I created this command-line application with the purpose of dynamically generating a good readme.md file.
 I created the application to be invoked with the command node index.js.
 Once the command is run the application prompts the user for their GitHub username and questions about their project. The application takes the GitHub username input and makes a call to the GitHub API to retrieve the users email and profile image.
 
@@ -16,8 +16,8 @@ Once the command is run the application prompts the user for their GitHub userna
   - [Test](#Test)
   - [Questions](#Questions)
   - [Repository Link](#Repository)
-  - [Github Info](#Github)
-  - [Badges](#Badges)
+  - [Github](#Github)
+  
 
  ## Installation
 
@@ -30,6 +30,8 @@ Simply clone the code into your repo and install dependencies with 'npm i' comma
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributors
+
+![GitHub license](https://img.shields.io/badge/Made%20by-%40Priti-orange)
 
 ## Guidelines
 
@@ -50,6 +52,10 @@ Simply clone the code into your repo and install dependencies with 'npm i' comma
 ## Test
 
 ![GitHub license](https://img.shields.io/badge/test-100%25-success)
+
+## Repository
+- [Project Repo](https://github.com/patelpr03/Readme-Generator)
+
 ## Questions
 
 Have any questions about this project? Reach out! <br>

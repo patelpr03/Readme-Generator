@@ -1,10 +1,10 @@
 ## Title
   
-  README-Generator
+  README-Genereator
   
 
 ## Description 
-Information ablut the Project
+project infomation
 
 ## Table of Contents 
   - [Description](#Description)
@@ -20,15 +20,15 @@ Information ablut the Project
 
 ## Instructions
 
-Install depenedencies with npm i command line and then run program
+install npm in and then rn program
 
-## license
+## Licence
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Usage 
 
-Provide instruction and examples for use
+
 
 ## Contribution
 
@@ -40,10 +40,10 @@ Provide instruction and examples for use
 
   ## Repository
 
-https://github.com/patelpr03/Readme-Generator
+
 
 
 ## Questions
 Have questions about this project?  
-### GitHub: https://github.com/patelpr03  
-### Email: patelpr_03@yahoo.com
+### GitHub: https://github.com/  
+### Email: 

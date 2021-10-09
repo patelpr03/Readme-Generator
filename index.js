@@ -26,16 +26,16 @@ inquirer
       message: "Please provide the installation Instructions:"
     },
     {
+      type: "list",
+      name: "license",
+      message: "Please provide the project license:",
+      choices: ["MIT", "ISC"]
+
+    },
+    {
       type: "input",
       name: "Usage",
       message: "Please provide the project usage:"
-    },
-    {
-      type: "list",
-      name: "Licence",
-      message: "Please provide the project license:",
-      choices: ["MIT", "ISC"]
-     
     },
     {
       type: "input",
@@ -49,14 +49,20 @@ inquirer
     },
     {
       type: "input",
+      name: "Repository",
+      message: "What is your Repository link?"
+    },
+    {
+      type: "input",
       name: "username",
       message: "What is your github user name?"
     },
     {
       type: "input",
-      name: "repo",
-      message: "What is your repo link?"
+      name: "Email",
+      message: "Please provide your Email address:"
     }
+
   ]
   )
 
