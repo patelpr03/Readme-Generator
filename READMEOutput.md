@@ -4,10 +4,10 @@
   
 
 ## Description 
-Information about the project
+Infomation about project
 
 ## Table of Contents 
-   -[Description](#Description)
+  - [Description](#Description)
   - [Installation](#Installation)
   - [Usage](#Usage)
   - [License](#Licence)
@@ -20,23 +20,23 @@ Information about the project
 
 ## Instructions
 
-install npm i command line and run node
+install npm in code and then run node 
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Usage 
 
-Provide instructions
+to create README file
 
 ## Contribution
 
-  NA
+  none
 
   ## Test
 
-  Yes
+  ![GitHub license](https://img.shields.io/badge/test-100%25-success)
 
 ## Questions
 Have questions about this project?  

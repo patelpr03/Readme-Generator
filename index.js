@@ -12,7 +12,7 @@ inquirer
     },
     {
       type: "input",
-      name: "description",
+      name: "Description",
       message: "Please provide your project's description?"
     },
     // {
@@ -32,7 +32,7 @@ inquirer
     },
     {
       type: "list",
-      name: "license",
+      name: "Licence",
       message: "Please provide the project license:",
       choices: ["MIT", "ISC"]
      

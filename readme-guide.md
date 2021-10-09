@@ -1,5 +1,5 @@
 # Your Project Title
-    README Generator
+README Generator
 ## Description 
 
 When creating an open source project on GitHub, it is important to have a quality README with information about the project.
