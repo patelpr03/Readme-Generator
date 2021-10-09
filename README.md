@@ -19,15 +19,17 @@ Once the command is run the application prompts the user for their GitHub userna
   - [Github Info](#Github)
   - [Badges](#Badges)
 
-## Installation
+ ## Installation
+
 Simply clone the code into your repo and install dependencies with 'npm i' command in terminal, then run the program with the command 'node index.js'.
 
 ## Usage 
 
-## License
+## Licence
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Contribution
+## Contributors
 
 ## Guidelines
 
@@ -49,4 +51,7 @@ Simply clone the code into your repo and install dependencies with 'npm i' comma
 
 ![GitHub license](https://img.shields.io/badge/test-100%25-success)
 ## Questions
-Have any questions about this project? Reach out! <br> GitHub: https://github.com/Patelpr03 <br> Email: patelpr_03@yahoo.com
+
+Have any questions about this project? Reach out! <br>
+### Github: https://github.com/Patelpr03 
+### Email: patelpr_03@yahoo.com

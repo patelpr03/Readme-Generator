@@ -4,7 +4,7 @@
   
 
 ## Description 
-Infomation about project
+Imfomation about Project
 
 ## Table of Contents 
   - [Description](#Description)
@@ -20,7 +20,7 @@ Infomation about project
 
 ## Instructions
 
-install npm in code and then run node 
+install first npm in and then run node 
 
 ## License
 
@@ -28,11 +28,11 @@ install npm in code and then run node
 
 ## Usage 
 
-to create README file
+for readme 
 
 ## Contribution
 
-  none
+  non
 
   ## Test
 
