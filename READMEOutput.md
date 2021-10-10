@@ -4,7 +4,7 @@
   
 
 ## Description 
-Infomation about the project
+infomation about the project
 
 ## Table of Contents 
   - [Description](#Description)
@@ -20,7 +20,7 @@ Infomation about the project
 
 ## Instructions
 
-install npm i and run the program with command node index.js
+Instal 'npm init' command then run the program with the command node index.js
 
 ## license
 
@@ -28,7 +28,7 @@ install npm i and run the program with command node index.js
 
 ## Usage 
 
-provide instruction example for use with screenshots
+Provide instructions and examples use  with screenshot
 
 ## Contribution
 
@@ -45,5 +45,5 @@ https://github.com/patelpr03/Readme-Generator
 
 ## Questions
 Have questions about this project?  
-### GitHub: https://github.com/patelpr03  
+### GitHub: https://github.com/ppatelpr  
 ### Email: patelpr_03@yahoo.com

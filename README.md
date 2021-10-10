@@ -39,7 +39,7 @@ Simply clone the code into your repo and install dependencies with 'npm i' comma
 
 ***Installation:***  What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-***Usage:***  Provide instructions and examples for use. Include screenshots. 
+***Usage:***  Provide instructions and examples for use. Include screenshots as needed.
 
 ***Licenses:*** This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use https://choosealicense.com/
 
