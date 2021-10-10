@@ -1,10 +1,10 @@
 ## Title
   
-  README-Generator
+  README Generator
   
 
 ## Description 
-Information ablut the Project
+Infomation about the project
 
 ## Table of Contents 
   - [Description](#Description)
@@ -20,7 +20,7 @@ Information ablut the Project
 
 ## Instructions
 
-Install depenedencies with npm i command line and then run program
+install npm i and run the program with command node index.js
 
 ## license
 
@@ -28,7 +28,7 @@ Install depenedencies with npm i command line and then run program
 
 ## Usage 
 
-Provide instruction and examples for use
+provide instruction example for use with screenshots
 
 ## Contribution
 
