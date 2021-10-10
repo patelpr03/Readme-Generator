@@ -39,8 +39,6 @@ ${data.Description}
   - [Test](#Test)
   - [Questions](#Questions)
   - [Repository Link](#Repository)
-  - [Github](#Github)
-  
 
 ## Instructions
 

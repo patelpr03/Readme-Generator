@@ -24,6 +24,8 @@ Once the command is run the application prompts the user for their GitHub userna
 Simply clone the code into your repo and install dependencies with 'npm i' command in terminal, then run the program with the command 'node index.js'.
 
 ## Usage 
+Provide instructions and examples for use.
+![alt text](assets/images/screenshot.png)
 
 ## Licence
 
