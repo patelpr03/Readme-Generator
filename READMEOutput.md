@@ -1,6 +1,6 @@
 ## Title
   
-  README Generator
+  README Grenerator
   
 
 ## Description 
@@ -18,7 +18,7 @@ Infomation about the project
 
 ## Instructions
 
-instal 'npm init' command then run the program with node index.js
+instal 'npm init' command then run the program with the command node index.js
 
 ## license
 
@@ -26,7 +26,7 @@ instal 'npm init' command then run the program with node index.js
 
 ## Usage 
 
-Provide instruction and examples for use with screenshots
+Provide instructions and examples for use with screenshots
 
 ## Contribution
 
@@ -43,5 +43,5 @@ https://github.com/patelpr03/Readme-Generator
 
 ## Questions
 Have questions about this project?  
-### GitHub: https://github.com/ppatel03  
+### GitHub: https://github.com/patelpr03  
 ### Email: patelpr_03@yahoo.com

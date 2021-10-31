@@ -16,6 +16,7 @@ Once the command is run the application prompts the user for their GitHub userna
   - [Test](#Test)
   - [Questions](#Questions)
   - [Repository Link](#Repository)
+  - [Demo](#Demo)
   - [Github](#Github)
   
 
@@ -56,7 +57,15 @@ Provide instructions and examples for use.
 ![GitHub license](https://img.shields.io/badge/test-100%25-success)
 
 ## Repository
-- [Project Repo](https://github.com/patelpr03/Readme-Generator)
+
+https://github.com/patelpr03/Readme-Generator
+
+## Demo
+
+![Example Gif](./assets/images/Rscreenshot.gif)
+
+## Link 
+https://watch.screencastify.com/v/Ys3cU0X4yGiBwpbQSb2y
 
 ## Questions
 
