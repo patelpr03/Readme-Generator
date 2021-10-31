@@ -28,7 +28,7 @@ Simply clone the code into your repo and install dependencies with 'npm i' comma
 Provide instructions and examples for use.
 ![alt text](assets/images/screenshot.png)
 
-## Licence
+## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -38,7 +38,7 @@ Provide instructions and examples for use.
 
 ## Guidelines
 
-***Create Project:***  With README.md file frist
+***Create Project:***  With README.md file first
 
 ***Installation:***  What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
@@ -48,7 +48,7 @@ Provide instructions and examples for use.
 
 ***Contributing:*** If you created an application or package and would like other developers to contribute to it.
 
-***Tests:*** After done writtig code test your application, then provide examples on how to run them.
+***Tests:*** After done writing code test your application, then provide examples on how to run them.
 
 ***Questions:***  Include your GitHub profile and email so users can reach out to you with any questions about your project.
 
